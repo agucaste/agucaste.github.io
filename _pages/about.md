@@ -22,6 +22,6 @@ Hi There! I'm Agustin Castellano, a 4th year PhD student at Johns Hopkins Univer
 
 I'm building this webpage as we speak, so stay tuned!
 
-<img src="assets/img/pikachu_under_construction.gif" alt="Under construction" width="300" height="auto">
+<img src="../assets/img/pikachu_under_construction.gif" alt="Under construction" width="300" height="auto">
 
 
