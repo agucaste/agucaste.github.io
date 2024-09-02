@@ -1,6 +1,6 @@
 ---
-layout: About
-title: About
+layout: about
+title: about
 permalink: /
 subtitle: <a href='#'>PhD Candidate</a> , Electrical and Computer Engineering, Johns Hopkins University
 
