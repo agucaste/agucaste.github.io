@@ -4,8 +4,6 @@ title: About
 permalink: /
 subtitle: <a href='#'>PhD Candidate</a> , Electrical and Computer Engineering, Johns Hopkins University
 
-
-
 profile:
   align: right
   image: profile_pic.jpg
