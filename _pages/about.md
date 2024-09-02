@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi There! I'm Agustin Castellano, a 4th year PhD student at Johns Hopkins University, advised by prof. [Enrique Mallada][https://mallada.ece.jhu.edu].
+Hi There! I'm Agustin Castellano, a 4th year PhD student at Johns Hopkins University, advised by prof. [Enrique Mallada](https://mallada.ece.jhu.edu).
 
 I'm building this webpage as we speak, so stay tuned!
 
