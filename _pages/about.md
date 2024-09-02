@@ -8,7 +8,7 @@ subtitle: <a href='#'>PhD Candidate</a> , Electrical and Computer Engineering, J
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
