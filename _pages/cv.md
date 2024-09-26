@@ -1,6 +1,9 @@
 ---
-layout: redirect
-title: cv
+layout: cv
 permalink: /cv/
-redirect_to: /assets/pdf/resume-sep-24
+title: cv
+nav: true
+nav_order: 5
+cv_pdf: resume-sep-24.pdf
+sidebar: left
 ---
