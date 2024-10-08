@@ -138,10 +138,10 @@ lsi: false # produce an index for related posts
 
 # Pagination
 pagination:
-  enabled: false  # true
+  enabled: false # true
 
 related_blog_posts:
-  enabled: false  # true
+  enabled: false # true
   max_related: 5
 
 # Giscus comments (RECOMMENDED)
@@ -298,7 +298,7 @@ jekyll-minifier:
 # -----------------------------------------------------------------------------
 
 jekyll-archives:
-  enabled: false  # [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
+  enabled: false # [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
   layouts:
     year: archive-year
     tag: archive-tag
