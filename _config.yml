@@ -228,10 +228,10 @@ kramdown:
 include:
   - _pages/404.md
   - _pages/about.md
-  - _pages/teaching.md
   - _pages/cv.md
 exclude:
   - _pages/publications.md
+  - _pages/teaching.md
   - bin/
   - CONTRIBUTING.md
   - CUSTOMIZE.md
