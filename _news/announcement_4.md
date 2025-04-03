@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I'll be interning at [Los Alamos National Laboratory](https://www.lanl.gov:443) this summer, working under [Harsha Nagarajan](https://harshangrjn.github.io/) on Reinforcement Learning algorithms applied to energy storage systems in power grids!
+I'll be interning at Los Alamos National Laboratory's [Applied Mathematics and Plasma Physics group](https://www.lanl.gov/engage/organizations/aldsct/theoretical/ampp) this summer, working under [Harsha Nagarajan](https://harshangrjn.github.io/) on Reinforcement Learning algorithms applied to energy storage systems in power grids!
